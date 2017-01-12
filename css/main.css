@@ -1,0 +1,225 @@
+body {
+	background-color: white;
+	font-family: Helvetica, sans-serif;
+}
+h1 {
+	font-family: 'Lato', sans-serif;
+	padding-left: 10px;
+}
+h2 {
+	padding: 10px;
+}
+h3 {
+	color: grey;
+}
+input {
+	width: 400px;
+	height: 25px;
+}
+button {
+	width: 55px;
+	height: 25px;
+}
+span {
+	background-color: yellow;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding: 8px;
+	padding-left: 12px;
+	text-align: center;
+}
+.logoImg {
+	width: 100px;
+	height: 55px;
+}
+.image1 {
+	width: 250px;
+	height: 200px;
+}
+.images {
+    width: 200px;
+    height: 100px;
+}
+.top {
+	background-color: none;
+	margin-left: 20px;
+	}
+.logo {
+	display: inline-block;
+	float: left;
+	border-right: 1px solid lightgrey;
+	padding-right: 10px;
+	margin: auto;
+	display: inline-block;
+	padding-left: 10px;
+}
+.signIn a {
+	padding: 15px 10px 15px 15px;
+    text-decoration: none;
+	display: inline-block;
+	float: left;
+	border-right: 1px solid lightgrey;
+	font-weight: bold;
+	margin: 3px;
+}
+.firstNav {
+	float: left;
+	border-right: : 1px solid lightgrey;
+	padding: 15px;
+	padding-top: 0
+}
+.search {
+	display: inline-block;
+	float: right;
+	padding: 20px;
+	margin-top: 5px;
+}
+.header {
+	clear: both;
+}
+a.navbar {
+	margin: 3px;
+	border-right: 1px solid lightgrey;
+	padding: 15px;
+	text-decoration: none;
+	display: inline-block;
+	padding-right: 25px;
+}
+.form {
+	width: 300px;
+}
+.header {
+	background-color: orange;
+	text-align: left;
+	padding: 1px 0 1px 10px;
+	border: 1px solid lightgrey;
+}
+.inpout{
+	width: 200px;
+	box-sizing: border-box;
+	height: 30px;
+	border: 1px solid lightgrey;
+	border-radius: 3px;
+}
+.search {
+	float: left;
+	margin: auto;
+}
+.secondNavBar {
+	background-color: orange;
+	text-align: left;
+	padding: 1px 0 1px 10px
+	border: 1px solid lightgrey;
+	float: left;
+	width: 100%;
+}
+.secondNav {
+	float: left;
+	padding-left: 10px;
+}
+a.navbarTwo {
+	border-right: 1px solid lightgrey;
+	padding: 10px;
+	text-decoration: none;
+	display: inline-block;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.allSportList {
+	text-decoration: none;
+	padding: 10px 10px 10px 25px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	display: inline-block;
+	float: right;
+	width: 100px;
+	margin-left: 20px;
+	border-left: 1px solid lightgrey;
+}
+.main {
+    width: 100%;
+}
+.mainPage {
+    width: 68%;
+    float: left;
+    padding: 15px;
+   box-sizing: border-box;
+}
+.first {
+	float: left;
+	width: 60%;
+	display: block;
+}
+.first p {
+	color: grey;
+	padding-right: 10px;
+}
+.first a {
+	text-decoration: none;
+	color: black;
+}
+.image1 {
+	float: left;
+	padding: 0 10px 10px 0;
+}
+.text {
+	float: left;
+	width: 240px;
+	display: inline-block;
+	padding-right: 10px;
+}
+.text h4 {
+	float: left;
+}
+.text h4 a {
+	text-decoration: none;
+	color: black;
+}
+.rightSideBar {
+    width: 32%;
+    float: right;
+    box-sizing: border-box;
+    border-left: 1px lightgrey solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 10px;
+}
+.clearfix:after {
+    display: block;
+    content: "";
+    clear: both;
+    border-bottom: 1px solid lightgrey;
+    padding-bottom: 10px;
+}
+.facups {
+	float: left;
+	font-weight: bold;
+}
+.more {
+	float: right;
+	font-weight: bold;
+	color: green;
+}
+.date {
+	background-color: #E5E5E5;
+	text-align: center;
+	padding: 5px;
+	margin-top: 5px;
+	border-radius: 3px;
+}
+.results {
+	width: 100%;
+	float: left;
+	padding-top: 5px;
+}
+.line_one {
+	border-bottom: 1px solid lightgrey;
+}
+.line_one_h {
+	color: black;
+	text-align: center;
+}
+.line_one_p {
+	text-align: center;
+	font-weight: bold;
+}
